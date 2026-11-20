@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2015
 
-## Equipo docente
-
-- **Clases teóricas:** Jonathan Barmak
-- **Clases prácticas:** Marcelo Valdettaro, Rodrigo Cardeccia, Emanuel Ferreyra
-
 ## Prácticas
 
 - [Repaso.](p0.pdf)
